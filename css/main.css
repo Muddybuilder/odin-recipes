@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to right, #FFD194, #D1913C);
+ 
+ 
+ 
+}
+
+.title{
+    /* color: goldenrod; */
+    text-align: center;
+    font-weight: bold;
+}
+
+.list{
+    display: inline-block;
+    margin: 5px;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    /* color:goldenrod; */
+}
